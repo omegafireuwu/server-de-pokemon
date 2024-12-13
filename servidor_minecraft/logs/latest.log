@@ -954,3 +954,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 02:02:30.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <omegaoso33> ponte bajo la tierra afk
 [13Dec2024 02:04:43.132] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: bdaf54df-37d0-42bb-b08b-5be92db783db
 [13Dec2024 02:04:43.133] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: bdaf54df-37d0-42bb-b08b-5be92db783db
+[13Dec2024 02:26:49.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reyxel> bro
+[13Dec2024 02:27:14.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <omegaoso33> tato
+[13Dec2024 02:27:21.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <omegaoso33> vistes lo que yo vi
+[13Dec2024 02:27:43.527] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Reyxel lost connection: Disconnected
+[13Dec2024 02:27:43.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reyxel left the game
+[13Dec2024 02:32:20.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: omegaoso33 was slain by Zombie
+[13Dec2024 02:32:28.426] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: omegaoso33 lost connection: Disconnected
+[13Dec2024 02:32:28.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: omegaoso33 left the game
