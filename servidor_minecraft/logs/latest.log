@@ -788,3 +788,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 15:30:32.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.741s)! For help, type "help"
 [13Dec2024 15:30:32.864] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: Starting Forge permission node registry
 [13Dec2024 15:30:32.866] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[13Dec2024 15:42:34.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[13Dec2024 15:42:34.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xd<--[HERE]
+[13Dec2024 15:47:33.626] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: omegaoso33[/127.246.179.201:45921] logged in with entity id 108 at (-257.3576349200194, 63.5625, -340.1054685832336)
+[13Dec2024 15:47:33.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: omegaoso33 joined the game
+[13Dec2024 15:53:21.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: omegaoso33 has made the advancement [Hard Work and Dedication]
+[13Dec2024 16:04:25.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: omegaoso33 has made the advancement [A New Friend!]
+[13Dec2024 16:06:48.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: omegaoso33 was slain by Iron Golem
+[13Dec2024 16:07:08.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: omegaoso33 was slain by Iron Golem
+[13Dec2024 16:10:20.076] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: omegaoso33 lost connection: Disconnected
+[13Dec2024 16:10:20.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: omegaoso33 left the game
+[13Dec2024 16:16:23.724] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@608e509a[id=<null>,name=omegaoso33,properties={},legacy=false] (/127.112.74.39:60981) lost connection: Disconnected
+[13Dec2024 16:16:51.068] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@168b5b62[id=<null>,name=omegaoso33,properties={},legacy=false] (/127.112.74.39:51337) lost connection: Disconnected
