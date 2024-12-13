@@ -126,7 +126,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_porkchop": "2024-12-13 00:21:10 +0000"
+      "cooked_porkchop": "2024-12-13 00:21:10 +0000",
+      "rotten_flesh": "2024-12-13 01:48:11 +0000"
     },
     "done": false
   },
@@ -370,6 +371,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/blocks/healing_machine": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-13 01:54:45 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/balls/heal_ball": {
     "criteria": {
       "has_pink_apricorn": "2024-12-13 01:35:52 +0000"
@@ -432,6 +439,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2024-12-13 01:49:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-12-13 01:33:06 +0000"
@@ -480,6 +493,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-12-13 01:54:07 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/balls/level_ball": {
     "criteria": {
       "has_red_apricorn": "2024-12-13 01:39:57 +0000",
@@ -499,6 +518,18 @@
       "has_planks": "2024-12-13 01:30:36 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-13 01:54:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-13 01:47:59 +0000"
+    },
+    "done": false
   },
   "cobblemon:harvest_apricorn_seed": {
     "criteria": {
@@ -573,6 +604,18 @@
     },
     "done": true
   },
+  "cobblemon:recipes/held/cell_battery": {
+    "criteria": {
+      "has_copper": "2024-12-13 01:54:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-13 01:54:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2024-12-13 01:33:46 +0000"
@@ -603,12 +646,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-13 01:54:45 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/balls/friend_ball": {
     "criteria": {
       "has_yellow_apricorn": "2024-12-13 01:34:01 +0000",
       "has_red_apricorn": "2024-12-13 01:39:57 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-13 01:49:39 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
@@ -701,6 +756,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-13 01:49:39 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/balls/sport_ball": {
     "criteria": {
       "has_red_apricorn": "2024-12-13 01:39:57 +0000"
@@ -716,6 +777,12 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2024-12-13 01:29:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-13 01:47:59 +0000"
     },
     "done": true
   },

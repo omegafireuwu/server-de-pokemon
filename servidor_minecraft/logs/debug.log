@@ -2169,3 +2169,115 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 01:44:52.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <omegaoso33> a ya xd
 [13Dec2024 01:44:54.605] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Dec2024 01:44:54.623] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 01:44:56.568] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[13Dec2024 01:44:56.568] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Dec2024 01:44:56.569] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[13Dec2024 01:45:04.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <omegaoso33> yo por accidente te golpie tambien
+[13Dec2024 01:45:04.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reyxel> :l
+[13Dec2024 01:45:26.618] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[13Dec2024 01:45:26.618] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Dec2024 01:45:26.619] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[13Dec2024 01:45:31.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [omegaoso33: Teleported Reyxel to omegaoso33]
+[13Dec2024 01:45:35.384] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: fd71059f-6b45-42dd-bbe5-c6bcb69a3069
+[13Dec2024 01:45:35.385] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: fd71059f-6b45-42dd-bbe5-c6bcb69a3069
+[13Dec2024 01:45:56.668] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[13Dec2024 01:45:56.668] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Dec2024 01:45:56.669] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[13Dec2024 01:46:23.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <omegaoso33> ya tengo para unas pokepelotas
+[13Dec2024 01:46:26.718] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[13Dec2024 01:46:26.718] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Dec2024 01:46:26.719] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[13Dec2024 01:46:41.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reyxel> tan rapido
+[13Dec2024 01:46:48.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <omegaoso33> es facil de hacer
+[13Dec2024 01:46:56.768] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[13Dec2024 01:46:56.768] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Dec2024 01:46:56.769] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[13Dec2024 01:47:26.818] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[13Dec2024 01:47:26.818] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Dec2024 01:47:26.819] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[13Dec2024 01:47:56.868] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[13Dec2024 01:47:56.868] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Dec2024 01:47:56.869] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[13Dec2024 01:47:59.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: omegaoso33 has made the advancement [Monster Hunter]
+[13Dec2024 01:48:26.918] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[13Dec2024 01:48:26.918] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Dec2024 01:48:26.919] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[13Dec2024 01:48:38.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <omegaoso33> .
+[13Dec2024 01:48:48.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reyxel> mosnterr hunter
+[13Dec2024 01:48:51.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reyxel> x
+[13Dec2024 01:48:56.968] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[13Dec2024 01:48:56.968] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Dec2024 01:48:56.969] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[13Dec2024 01:48:59.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <omegaoso33> hunterxhunter referencia
+[13Dec2024 01:49:07.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: omegaoso33 tried to swim in lava
+[13Dec2024 01:49:13.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <omegaoso33> estoy pendejo
+[13Dec2024 01:49:16.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reyxel> encontre mina
+[13Dec2024 01:49:17.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <omegaoso33> el juego :
+[13Dec2024 01:49:26.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [omegaoso33: Teleported omegaoso33 to Reyxel]
+[13Dec2024 01:49:27.018] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[13Dec2024 01:49:27.018] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Dec2024 01:49:27.019] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[13Dec2024 01:49:27.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reyxel> estamos pendejos
+[13Dec2024 01:49:31.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <omegaoso33> encontramossss
+[13Dec2024 01:49:40.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reyxel> lol
+[13Dec2024 01:49:54.593] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 01:49:54.599] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 01:49:57.068] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[13Dec2024 01:49:57.068] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Dec2024 01:49:57.069] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[13Dec2024 01:50:27.118] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[13Dec2024 01:50:27.118] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Dec2024 01:50:27.120] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[13Dec2024 01:50:41.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reyxel has made the advancement [The Root of Basic Healing]
+[13Dec2024 01:50:57.168] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[13Dec2024 01:50:57.168] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Dec2024 01:50:57.169] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[13Dec2024 01:51:04.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <omegaoso33> esto es para evolucionar a alguns pokemons
+[13Dec2024 01:51:19.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reyxel> ayudaaaa
+[13Dec2024 01:51:27.218] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[13Dec2024 01:51:27.218] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Dec2024 01:51:27.219] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[13Dec2024 01:51:27.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [omegaoso33: Teleported omegaoso33 to Reyxel]
+[13Dec2024 01:51:41.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reyxel has made the advancement [Monster Hunter]
+[13Dec2024 01:51:45.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <omegaoso33> tato
+[13Dec2024 01:51:49.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reyxel> dime
+[13Dec2024 01:51:54.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <omegaoso33> el click tiene couldown
+[13Dec2024 01:51:57.268] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[13Dec2024 01:51:57.268] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Dec2024 01:51:57.269] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[13Dec2024 01:52:01.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reyxel> que
+[13Dec2024 01:52:02.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <omegaoso33> no es como en bedro
+[13Dec2024 01:52:09.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <omegaoso33> cuando golpeas
+[13Dec2024 01:52:12.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <omegaoso33> sale una barra
+[13Dec2024 01:52:14.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <omegaoso33> blanca
+[13Dec2024 01:52:26.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reyxel> aaaa
+[13Dec2024 01:52:27.318] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[13Dec2024 01:52:27.318] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Dec2024 01:52:27.319] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[13Dec2024 01:52:28.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <omegaoso33> que mientras mas la dejes cargar mas daño haces
+[13Dec2024 01:52:35.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <omegaoso33> tienes que atacar
+[13Dec2024 01:52:39.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <omegaoso33> esperar
+[13Dec2024 01:52:46.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reyxel> okety
+[13Dec2024 01:52:47.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <omegaoso33> en las ultimas versiones es asi
+[13Dec2024 01:52:52.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <omegaoso33> en las viejas no
+[13Dec2024 01:52:57.368] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[13Dec2024 01:52:57.368] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Dec2024 01:52:57.369] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[13Dec2024 01:53:27.418] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[13Dec2024 01:53:27.418] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Dec2024 01:53:27.419] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[13Dec2024 01:53:57.468] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[13Dec2024 01:53:57.468] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Dec2024 01:53:57.468] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[13Dec2024 01:54:27.518] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[13Dec2024 01:54:27.518] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Dec2024 01:54:27.518] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[13Dec2024 01:54:42.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <omegaoso33> encontre una mina mas grande
+[13Dec2024 01:54:52.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reyxel> encontramos
+[13Dec2024 01:54:54.593] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 01:54:54.598] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 01:54:57.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <omegaoso33> bruh
+[13Dec2024 01:54:57.568] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[13Dec2024 01:54:57.568] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Dec2024 01:54:57.568] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[13Dec2024 01:54:59.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reyxel> teletraspotame
